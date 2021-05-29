@@ -2,6 +2,7 @@
 
 TimeCounterBot is bot for Telegram.
 
-Functions:
-* calculate time from today to date;
-* …
+### Functions
+
+* calculate days from today to date
+* calculate days between two dates
