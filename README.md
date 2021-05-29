@@ -1,2 +1,7 @@
 # countertobot
-Telegram bot for days counting
+
+TimeCounterBot is bot for Telegram.
+
+Functions:
+* calculate time from today to date;
+* …
